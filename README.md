@@ -7,8 +7,8 @@ To install: in PixInsight, **Resources > Updates > Manage Repositories**, add th
 
 Packages (release 20261105):
 
-- **FieldDepth3D** 1.0.0 — `20261105-FieldDepth3D-1.0.0.zip` (sha1 `e0ced4e99605e9c1d6bbe5edb59a1a57e72777fd`)
-- **StellarChemistry** 0.3.0 — `20261105-StellarChemistry-0.3.0.zip` (sha1 `13da9efc7cf460fc90f30e02916bcdfc316ac4fb`)
+- **FieldDepth3D** 1.0.1 — `20261105-FieldDepth3D-1.0.1.zip` (sha1 `5e266f8e02ec20a361986f27fde2587224ced1ef`)
+- **StellarChemistry** 0.3.1 — `20261105-StellarChemistry-0.3.1.zip` (sha1 `cacb5fdba277440a334b1b6121fe9eae8d210a66`)
 
 Network use, external programs, files written and third-party data are documented in each script's help
 (button ?) and in the `THIRD_PARTY.txt` installed with each script.

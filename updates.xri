@@ -6,12 +6,13 @@
       <p>Copyright &#169; 2026 CabraSpace.</p>
    </description>
    <platform os="all" arch="noarch" version="1.9.6:1.9.99">
-      <package fileName="20261105-FieldDepth3D-1.0.0.zip" sha1="e0ced4e99605e9c1d6bbe5edb59a1a57e72777fd" type="script" releaseDate="20261105">
-         <title>FieldDepth3D 1.0.0 — distances and 3D view of your image</title>
+      <package fileName="20261105-FieldDepth3D-1.0.1.zip" sha1="5e266f8e02ec20a361986f27fde2587224ced1ef" type="script" releaseDate="20261105">
+         <title>FieldDepth3D 1.0.1 — distances and 3D view of your image</title>
          <remove>
             src/scripts/CabraSpace/FieldDepth3D
             doc/scripts/FieldDepth3D
             doc/scripts/FieldDepth3D_es
+            rsc/icons/script/FieldDepth3D
          </remove>
          <description>
             <p>FieldDepth3D places every star, cluster, nebula and galaxy of a plate-solved image at its real distance and shows the field in 3D: fly-throughs, a time machine for stellar motions, the Galaxy in 3D and video export (AVI; MP4 only with an ffmpeg the user chooses).</p>
@@ -20,12 +21,13 @@
             <p>Copyright &#169; 2026 CabraSpace.</p>
          </description>
       </package>
-      <package fileName="20261105-StellarChemistry-0.3.0.zip" sha1="13da9efc7cf460fc90f30e02916bcdfc316ac4fb" type="script" releaseDate="20261105">
-         <title>StellarChemistry 0.3.0 — chemical archaeology of the stars in your image</title>
+      <package fileName="20261105-StellarChemistry-0.3.1.zip" sha1="cacb5fdba277440a334b1b6121fe9eae8d210a66" type="script" releaseDate="20261105">
+         <title>StellarChemistry 0.3.1 — chemical archaeology of the stars in your image</title>
          <remove>
             src/scripts/CabraSpace/StellarChemistry
             doc/scripts/StellarChemistry
             doc/scripts/StellarChemistry_es
+            rsc/icons/script/StellarChemistry
          </remove>
          <description>
             <p>StellarChemistry reads the stars of a plate-solved image against Gaia DR3 and the APOGEE, GALAH and LAMOST surveys: metallicity, alpha elements, ages, Galactic population, orbits and chemical families, explained in plain language.</p>
