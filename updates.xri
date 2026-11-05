@@ -6,8 +6,8 @@
       <p>Copyright &#169; 2026 CabraSpace.</p>
    </description>
    <platform os="all" arch="noarch" version="1.9.6:1.9.99">
-      <package fileName="20261105-FieldDepth3D-1.0.2.zip" sha1="709b5b882b314ab1258626716ddea2caca14e09c" type="script" releaseDate="20261105">
-         <title>FieldDepth3D 1.0.2 — distances and 3D view of your image</title>
+      <package fileName="20261105-FieldDepth3D-1.0.3.zip" sha1="b050bb0589dc378e482b4ce8c3f7edf74cee5631" type="script" releaseDate="20261105">
+         <title>FieldDepth3D 1.0.3 — distances and 3D view of your image</title>
          <remove>
             src/scripts/CabraSpace/FieldDepth3D
             doc/scripts/FieldDepth3D
