@@ -6,8 +6,8 @@
       <p>Copyright &#169; 2026 CabraSpace.</p>
    </description>
    <platform os="all" arch="noarch" version="1.9.6:1.9.99">
-      <package fileName="20261105-FieldDepth3D-1.0.1.zip" sha1="5e266f8e02ec20a361986f27fde2587224ced1ef" type="script" releaseDate="20261105">
-         <title>FieldDepth3D 1.0.1 — distances and 3D view of your image</title>
+      <package fileName="20261105-FieldDepth3D-1.0.2.zip" sha1="709b5b882b314ab1258626716ddea2caca14e09c" type="script" releaseDate="20261105">
+         <title>FieldDepth3D 1.0.2 — distances and 3D view of your image</title>
          <remove>
             src/scripts/CabraSpace/FieldDepth3D
             doc/scripts/FieldDepth3D
@@ -21,8 +21,8 @@
             <p>Copyright &#169; 2026 CabraSpace.</p>
          </description>
       </package>
-      <package fileName="20261105-StellarChemistry-0.3.1.zip" sha1="cacb5fdba277440a334b1b6121fe9eae8d210a66" type="script" releaseDate="20261105">
-         <title>StellarChemistry 0.3.1 — chemical archaeology of the stars in your image</title>
+      <package fileName="20261105-StellarChemistry-0.3.2.zip" sha1="7cfc0dca2514e4cc22647378c31f731666f5fdc3" type="script" releaseDate="20261105">
+         <title>StellarChemistry 0.3.2 — chemical archaeology of the stars in your image</title>
          <remove>
             src/scripts/CabraSpace/StellarChemistry
             doc/scripts/StellarChemistry
