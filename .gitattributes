@@ -1,0 +1,2 @@
+# byte a byte: un cambio de fin de línea invalidaría la firma de updates.xri y el sha1 de los paquetes
+* -text
