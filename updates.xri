@@ -3,10 +3,10 @@
      xsi:schemaLocation="http://www.pixinsight.com/xri http://pixinsight.com/xri/xri-1.0.xsd">
    <description>
       <p>CabraSpace PixInsight repository — astrophysics scripts that put the stars of your own images in context (distances, 3D, stellar chemistry). Each script is a separate package: install only the ones you want.</p>
-      <p>Copyright &#169; 2026 CabraSpace.</p>
+      <p>Copyright &#169; 2026 Oscar Rodriguez Carballo.</p>
    </description>
    <platform os="all" arch="noarch" version="1.9.6:1.9.99">
-      <package fileName="20261106-FieldDepth3D-1.0.4.zip" sha1="d03a0f73f757d6f6bde8e2b5d461931cc3de12d7" type="script" releaseDate="20261106">
+      <package fileName="20261106-FieldDepth3D-1.0.4.zip" sha1="6f814ee3573e682aeec60ba9c2879dca0b251f48" type="script" releaseDate="20261106">
          <title>FieldDepth3D 1.0.4 — distances and 3D view of your image</title>
          <remove>
             src/scripts/CabraSpace/FieldDepth3D
@@ -18,10 +18,10 @@
             <p>FieldDepth3D places every star, cluster, nebula and galaxy of a plate-solved image at its real distance and shows the field in 3D: fly-throughs, a time machine for stellar motions, the Galaxy in 3D and video export (AVI; MP4 only with an ffmpeg the user chooses).</p>
             <p>Menu: Script &gt; CabraSpace &gt; FieldDepth3D. Requires an astrometric solution (ImageSolver).</p>
             <p>Network: it queries public astronomical catalogues (Gaia DR3, VizieR, SIMBAD, Zenodo) over HTTPS with the image coordinates only; no image data is ever uploaded. Downloads are validated and cached, sealed with SHA-256, outside the PixInsight installation. Full details in the script documentation (button ?).</p>
-            <p>Copyright &#169; 2026 CabraSpace.</p>
+            <p>Copyright &#169; 2026 Oscar Rodriguez Carballo.</p>
          </description>
       </package>
-      <package fileName="20261106-StellarChemistry-0.3.3.zip" sha1="397b7c9086cd465fe18f57a5cb94e2faafa84000" type="script" releaseDate="20261106">
+      <package fileName="20261106-StellarChemistry-0.3.3.zip" sha1="a1864af417bebea10ecb8931dc36128806ae7c1b" type="script" releaseDate="20261106">
          <title>StellarChemistry 0.3.3 — chemical archaeology of the stars in your image</title>
          <remove>
             src/scripts/CabraSpace/StellarChemistry
@@ -33,7 +33,7 @@
             <p>StellarChemistry reads the stars of a plate-solved image against Gaia DR3 and the APOGEE, GALAH and LAMOST surveys: metallicity, alpha elements, ages, Galactic population, orbits and chemical families, explained in plain language.</p>
             <p>Menu: Script &gt; CabraSpace &gt; StellarChemistry. Requires an astrometric solution (ImageSolver).</p>
             <p>Network: it queries public astronomical catalogues (VizieR TAP and its mirrors, SIMBAD) over HTTPS with the image coordinates only; no image data is ever uploaded. Responses are validated and cached, sealed with SHA-256, outside the PixInsight installation. Full details in the script documentation (button ?).</p>
-            <p>Copyright &#169; 2026 CabraSpace.</p>
+            <p>Copyright &#169; 2026 Oscar Rodriguez Carballo.</p>
          </description>
       </package>
    </platform>
