@@ -36,5 +36,20 @@
             <p>Copyright &#169; 2026 Oscar Rodriguez Carballo.</p>
          </description>
       </package>
+      <package fileName="20261121-FieldVoyager-1.0.0.zip" sha1="975439fc2c06e8e9b999e029d4871027292f1c17" type="script" releaseDate="20261121">
+         <title>FieldVoyager 1.0.0 — fly inside your astrophoto</title>
+         <remove>
+            src/scripts/CabraSpace/FieldVoyager
+            doc/scripts/FieldVoyager
+            doc/scripts/FieldVoyager_es
+            rsc/icons/script/FieldVoyager
+         </remove>
+         <description>
+            <p>FieldVoyager turns a plate-solved image into a 3D scene: the Gaia DR3 stars at their real distances and the nebula in layers, flown from a retro spaceship cockpit, with scan cards, a time machine, video recording (AVI; MP4 only with an ffmpeg the user chooses) and a viewer for your web browser.</p>
+            <p>Menu: Script &gt; CabraSpace &gt; FieldVoyager. Requires an astrometric solution (ImageSolver).</p>
+            <p>Network: it queries public astronomical catalogues and services over HTTPS with the image coordinates only; no image data is ever uploaded. Downloads are validated and cached, sealed with SHA-256, outside the PixInsight installation. The full list of servers is in the script documentation (button ?).</p>
+            <p>Copyright &#169; 2026 Oscar Rodriguez Carballo.</p>
+         </description>
+      </package>
    </platform>
 </xri>
