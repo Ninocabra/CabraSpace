@@ -9,7 +9,6 @@ Packages (release 20261121):
 
 - **FieldDepth3D** 1.0.5 — `20261119-FieldDepth3D-1.0.5.zip` (sha1 `730bb438fb9d74c0d8620037ecc652252f34e4f8`)
 - **StellarChemistry** 0.3.4 — `20261119-StellarChemistry-0.3.4.zip` (sha1 `47630f863e9fbac3791cf12e0927d6cf111f0fd3`)
-- **FieldVoyager** 1.0.0 — `20261121-FieldVoyager-1.0.0.zip` (sha1 `975439fc2c06e8e9b999e029d4871027292f1c17`)
 
 Network use, external programs, files written and third-party data are documented in each script's help
 (button ?) and in the `THIRD_PARTY.txt` installed with each script.
