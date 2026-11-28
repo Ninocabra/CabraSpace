@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xri version="1.0" xmlns="http://www.pixinsight.com/xri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.pixinsight.com/xri http://pixinsight.com/xri/xri-1.0.xsd">
+<xri version="1.0" xmlns="http://www.pixinsight.com/xri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pixinsight.com/xri http://pixinsight.com/xri/xri-1.0.xsd">
    <description>
       <p>CabraSpace PixInsight repository — astrophysics scripts that put the stars of your own images in context (distances, 3D, stellar chemistry). Each script is a separate package: install only the ones you want.</p>
-      <p>Copyright &#169; 2026 Oscar Rodriguez Carballo.</p>
+      <p>Copyright © 2026 Oscar Rodriguez Carballo.</p>
    </description>
    <platform os="all" arch="noarch" version="1.9.6:1.9.99">
-      <package fileName="20261126-FieldDepth3D-1.0.6.zip" sha1="1c70a1732728c4a10c0b7e5be0709460f933e0df" type="script" releaseDate="20261126">
+      <package fileName="20261128-FieldDepth3D-1.0.6.zip" sha1="69a2e1ad9ad2a5527919e2ae7a0759963ee09f83" type="script" releaseDate="20261128">
          <title>FieldDepth3D 1.0.6 — distances and 3D view of your image</title>
          <remove>
             src/scripts/CabraSpace/FieldDepth3D
@@ -18,8 +17,9 @@
             <p>FieldDepth3D places every star, cluster, nebula and galaxy of a plate-solved image at its real distance and shows the field in 3D: fly-throughs, a time machine for stellar motions, the Galaxy in 3D and video export (AVI; MP4 only with an ffmpeg the user chooses).</p>
             <p>Menu: Script &gt; CabraSpace &gt; FieldDepth3D. Requires an astrometric solution (ImageSolver).</p>
             <p>Network: it queries public astronomical catalogues (Gaia DR3, VizieR, SIMBAD, Zenodo) over HTTPS with the image coordinates only; no image data is ever uploaded. Downloads are validated and cached, sealed with SHA-256, outside the PixInsight installation. Full details in the script documentation (button ?).</p>
-            <p>Copyright &#169; 2026 Oscar Rodriguez Carballo.</p>
+            <p>Copyright © 2026 Oscar Rodriguez Carballo.</p>
          </description>
       </package>
    </platform>
 </xri>
+<Signature developerId="CabraSpace" timestamp="2026-11-28T20:28:56.581Z" encoding="Base64">yUv8yj4NVZ9o+kwJ1Qj/i9kmWR3dsl+IUIDdOVUGFzv7XT8s0xqYxf0Szpum0v8ynE9F0ntes/lO7Cis3UV0DA==</Signature>
