@@ -21,20 +21,5 @@
             <p>Copyright &#169; 2026 Oscar Rodriguez Carballo.</p>
          </description>
       </package>
-      <package fileName="20261126-StellarChemistry-0.3.5.zip" sha1="8f641c8fa005ad7291218d85aa35940bb7fe6b65" type="script" releaseDate="20261126">
-         <title>StellarChemistry 0.3.5 — chemical archaeology of the stars in your image</title>
-         <remove>
-            src/scripts/CabraSpace/StellarChemistry
-            doc/scripts/StellarChemistry
-            doc/scripts/StellarChemistry_es
-            rsc/icons/script/StellarChemistry
-         </remove>
-         <description>
-            <p>StellarChemistry reads the stars of a plate-solved image against Gaia DR3 and the APOGEE, GALAH and LAMOST surveys: metallicity, alpha elements, ages, Galactic population, orbits and chemical families, explained in plain language.</p>
-            <p>Menu: Script &gt; CabraSpace &gt; StellarChemistry. Requires an astrometric solution (ImageSolver).</p>
-            <p>Network: it queries public astronomical catalogues (VizieR TAP and its mirrors, SIMBAD) over HTTPS with the image coordinates only; no image data is ever uploaded. Responses are validated and cached, sealed with SHA-256, outside the PixInsight installation. Full details in the script documentation (button ?).</p>
-            <p>Copyright &#169; 2026 Oscar Rodriguez Carballo.</p>
-         </description>
-      </package>
    </platform>
 </xri>
